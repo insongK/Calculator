@@ -1,3 +1,3 @@
-import calculator
+import calculator as cal
 
-calculator.start()
+cal.start()
